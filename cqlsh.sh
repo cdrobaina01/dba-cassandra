@@ -1,0 +1,1 @@
+docker run --rm -it --network dba-cassandra_default nuvo/docker-cqlsh:0.1.0 cqlsh cassandra-node1 9042 --cqlversion='3.4.7'
